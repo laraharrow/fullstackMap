@@ -1,0 +1,64 @@
+body {
+	background-color: #ada397;
+}
+
+h1 {
+	text-align: center;
+	color: #50394c;
+}
+
+h3 {
+	text-align: center;
+	color: #50394c;
+}
+
+p {
+	color: #50394c;
+}
+#api {
+	margin-top: 80px;  
+	margin-bottom: -5px;
+}
+
+#side {
+	display:flex; 
+	flex-direction:row;
+}
+
+#client {
+	width: 45%;
+	background-color: #d6cbd3;
+	font-family: arial;
+	margin-left: 30px;
+	height: 100%;
+	padding: 5px 10px 10px 10px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+#server {
+	width: 45%;
+	background-color: #eca1a6;
+	font-family: arial;
+	margin-left: 30px;
+	height: 100%;
+	padding: 5px 10px 10px 10px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+#database {
+	width: 45%;
+	background-color: #bdcebe;
+	font-family: arial;
+	margin-left: 30px;
+	height: 100%;
+	padding: 5px 10px 10px 10px;
+	border-radius: 10px;
+	display: inline-block;
+}
+
+
+/*#selected {
+	display: ;
+}*/
